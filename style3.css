@@ -1,0 +1,35 @@
+body{
+    width: 960px;
+    font-family: 'M PLUS Rounded 1c';
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #aaaaaa;
+	background-size: 80px 80px;
+	background-image:
+	 linear-gradient(rgba(217, 243, 224, 0.788) 1%, rgba(215,204,200,.7) 1%, transparent 1%,
+	  transparent 99%, rgba(229, 250, 179, 0.7) 99%, rgba(215,204,200,.7) 100%),
+	 linear-gradient(90deg, rgba(215,204,200,.7) 1%, rgba(215,204,200,.7) 1%, transparent 1%,
+	  transparent 99%, rgba(215,204,200,.7) 99%, rgba(215,204,200,.7) 100%),
+	 linear-gradient(transparent, transparent 25%, rgba(215,204,200,.4) 25%, rgba(218, 213, 212, 0.4) 26%, transparent 26%,
+	  transparent 50%, rgba(215,204,200,.4) 50%, rgba(215,204,200,.4) 51%, transparent 51%,
+	  transparent 75%, rgba(215,204,200,.4) 75%, rgba(215,204,200,.4) 76%, transparent 76%, transparent 100%),
+	 linear-gradient(90deg, transparent, transparent 25%, rgba(218, 228, 220, 0.4) 25%, rgba(170, 175, 170, 0.4) 26%, transparent 26%,
+	  transparent 50%, rgba(215,204,200,.4) 50%, rgba(187, 185, 184, 0.4) 51%, transparent 51%,
+	  transparent 75%, rgba(215,204,200,.4) 75%, rgba(215,204,200,.4) 76%, transparent 76%, transparent 100%);
+}
+
+
+
+
+
+
+
+
+
+fieldset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
